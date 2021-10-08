@@ -9,7 +9,7 @@ Disallow: /irc.html
 Disallow: /*.php
 Disallow: /basic/9/passw.txt
 ..............................
-Disallow: /cert/certicert.html
-Disallow: /ircforward.html
+Disallow: /cert/certidcert.html
+Disallow: /ircforwdard.html
 Disallow: /*.php
-Disallow: /basic/9/passw23.txt
+Disallow: /basic/9/passw233.txt
